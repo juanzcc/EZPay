@@ -3,7 +3,7 @@
 ## Sobre o projeto
 
 EZPay é um aplicativo que busca agilizar o processo de compras em supermercados. <br>
-O app foi feito durante o TCC na faculdade de Analise e Desenvolvimento de Sistemas.
+O app foi feito no android studio, durante o TCC na faculdade de Analise e Desenvolvimento de Sistemas.
 
 ## Layout do APP
 ![1_Pagina Inicial_Login](https://user-images.githubusercontent.com/54084509/138574930-f3a0ff36-de52-4640-80ae-780fbf507fba.jpg)
@@ -11,9 +11,10 @@ O app foi feito durante o TCC na faculdade de Analise e Desenvolvimento de Siste
 ![5_Busca Produtos](https://user-images.githubusercontent.com/54084509/138574934-257fb201-19c3-401c-996d-329440006a5d.jpg)
 ![6_Finalizar Compras](https://user-images.githubusercontent.com/54084509/138574936-22750d1e-7266-42e2-b99c-1097888c71b9.jpg)
 
+# Tecnologias utilizadas
 
-
-
+- Java
+- Firebase
 
 # Autores
 
